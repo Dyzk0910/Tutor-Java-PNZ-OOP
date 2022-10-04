@@ -1,0 +1,11 @@
+BACA DAHULU AGAR MUDAH DIPAHAMI
+
+
+- penamaan clas a1,b1,c1 adaalah sebuah oop yang materi nya di pisah agar mempermudah perbedaan dan mempermudah
+  dalam membaca sebuah codingan ( penamaan a1 / _ jangan di gunakan untuk membuat project , penamaaan a1 / _ itu hanya untuk
+  mempermudah dalam proses belajar
+
+- penamaan class a1_ wedangan di ibaratkan sebuah wedangan yang di pakai nnti untuk a2-a4
+- sebelum membaca code class maka di lihat dulu di readme.txt agar tidak salah dalam membaca dan agar mempermudah membaca code
+  yang bertujuan untuk belajar
+
